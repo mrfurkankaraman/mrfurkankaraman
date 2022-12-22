@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @mrfurkankaraman
-- 👀 I’m interested in Data Science
+- 👋 Hi, I’m @furkankaraman
+- 👀 I’m interested in machine learning and deep learning in data science 
 - 🌱 I’m currently learning Python and TensorFlow 
 - 💞️ I’m looking to collaborate on data analysis
 - 📫 How to reach me furkaankaraman@gmail.com
